@@ -1,2 +1,2 @@
 # C++-Journey
-I cant define.
+You know.
